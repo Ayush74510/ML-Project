@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "application.py": {
-      "runtime": "python3.12"
-    }
-  }
-}
